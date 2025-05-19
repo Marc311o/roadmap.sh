@@ -1,23 +1,23 @@
 #include "task-tracker.h"
 
-class task_t{
+task_t::task_t(int id, std::string desc){
+    this->id = id;
+    this->description = std::move(desc);
 
-public:
-    unsigned int id;
-    std::string description;
+    this->createdAt = time(&createdAt);
+    this->updatedAt = time(&updatedAt);
 
-    time_t createdAt;
-    time_t updatedAt;
-    status_t status;
+    this->status = TODO;
+}
 
-    task_t(int id, std::string desc){
-        this->id = id;
-        this->description = std::move(desc);
+task_t::~task_t() = default;
 
-        this->createdAt = time(&createdAt);
-        this->updatedAt = time(&updatedAt);
-
-        this->status = TODO;
+void task_t::update(status_t new_status, const std::string& desc){
+    if(!desc.empty()){
+        this->description = desc;
     }
+    this->status = new_status;
+    this->updatedAt = time(&updatedAt);
+}
 
-};
+
