@@ -1,7 +1,10 @@
+// https://roadmap.sh/projects/task-tracker
+
 #include <iostream>
 #include "task-tracker.h"
 #include <string>
 #include <vector>
+#include "json.hpp"
 
 using namespace std;
 
@@ -12,7 +15,9 @@ int readlist(string filename){
 int readtask(task_t& task){
     return 0;
 }
-// JSON: { "1" :    }
+// JSON: {
+// "task1":{"id":"1","description":"task_desc","createdat" : "date","updatedat":"date"},
+// }
 
 int main(int argc, char** argv) {
 
