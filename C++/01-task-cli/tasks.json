@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "Fix bug #123",
+    "createdAt": 1717020000,
+    "updatedAt": 1717023600,
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": 2,
+    "description": "Write documentation",
+    "createdAt": 1717010000,
+    "updatedAt": 1717013600,
+    "status": "TODO"
+  }
+]
