@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e5008ce-229d-4cd8-8871-aeb8bfb3e51a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Frontend/1. Single-Page CV/assets/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/1. Single-Page CV/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/1. Single-Page CV/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C++/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/1. task-cli/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/C++/01-task-cli/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/1. task-cli/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/C++/01-task-cli/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/1. task-cli/.idea/1. task-cli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/C++/01-task-cli/.idea/1. task-cli.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/1. task-cli/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/C++/01-task-cli/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/1. task-cli/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/C++/01-task-cli/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++/1. task-cli/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/C++/01-task-cli/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +51,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jurek\OneDrive - Politechnika Łódzka\roadmap.sh\Frontend\1. Single-Page CV\assets" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jurek\OneDrive - Politechnika Łódzka\roadmap.sh\Frontend\1. Single-Page CV" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -66,7 +74,7 @@
       <workItem from="1747592683778" duration="126000" />
       <workItem from="1747592826228" duration="725000" />
       <workItem from="1747596091575" duration="12000" />
-      <workItem from="1748723343331" duration="2013000" />
+      <workItem from="1748723343331" duration="2227000" />
     </task>
     <servers />
   </component>
