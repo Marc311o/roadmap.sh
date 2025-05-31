@@ -1,0 +1,2 @@
+#file stating all directories/files to be ignored by git
+.idea
